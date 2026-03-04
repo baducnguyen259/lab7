@@ -1,0 +1,8 @@
+@extends('layouts.master')
+
+@section('title', 'Trang chủ')
+
+@section('content')
+    <h1>Trang chủ</h1>
+    <p>Chào mừng bạn đến với trang chủ.</p>
+@endsection
